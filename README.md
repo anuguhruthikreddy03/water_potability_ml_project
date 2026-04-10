@@ -21,7 +21,7 @@ Built using **Python, Scikit-learn, and Streamlit**.
 1. Data Collection (Water Quality Dataset)
 2. Data Preprocessing (Handling missing values, scaling)
 3. Feature Engineering
-4. Model Training (Random Forest / ML Model)
+4. Model Training 
 5. Pipeline Creation
 6. Deployment using Streamlit
 
